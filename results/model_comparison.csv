@@ -1,4 +1,0 @@
-model,classes_loaded,output_neurons,epochs,train_samples,test_samples,test_loss,test_accuracy,train_seconds
-MLP,13065,13065,3,2613000,162550,9.4782,0.0001,4364.8
-Basic_CNN,13065,13065,3,2613000,162550,9.4784,0.0001,4135.9
-Deep_CNN,13065,13065,3,2613000,162550,30.7748,0.0074,4163.5
