@@ -373,6 +373,6 @@ tail -f training.log
 3. [Keras Documentation](https://keras.io/)
 4. Bradski, G. (2000). *The OpenCV Library*. Dr. Dobb's Journal of Software Tools.
 
-Note:
+## Note:
     Running order:
     01>02>02b>02c>03
