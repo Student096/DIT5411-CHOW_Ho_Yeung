@@ -1,0 +1,4 @@
+Model,Output_Neurons,Epochs,Train_Samples,Test_Samples,Best_Train_Accuracy,Final_Train_Accuracy,Test_Loss,Test_Accuracy,Train_Seconds
+Model_2_Basic_CNN,13065,9,2613000,162550,0.0001,0.0001,0.5927,0.8566,12739.2
+Model_3_Deep_CNN_BN,13065,9,2613000,162550,0.1814,0.1814,9.5467,0.0315,12721.6
+Model_1_MLP,13065,9,2613000,162550,0.0001,0.0001,9.4784,0.0001,13036.8

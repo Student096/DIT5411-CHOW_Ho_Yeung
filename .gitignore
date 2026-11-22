@@ -1,0 +1,15 @@
+.venv/
+venv/
+tf_gpu/
+checkpoints/
+dataset_augmented_train/
+dataset_extracted/
+dataset_extracted_all/
+dataset_merged/
+dataset_raw/
+handwritting_data_all.zip
+train.log
+__pycache__/
+*.pyc
+*.h5
+*.keras
