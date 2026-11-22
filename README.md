@@ -372,3 +372,7 @@ tail -f training.log
 2. Abadi, M., et al. (2015). [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://www.tensorflow.org/)
 3. [Keras Documentation](https://keras.io/)
 4. Bradski, G. (2000). *The OpenCV Library*. Dr. Dobb's Journal of Software Tools.
+
+Note:
+    Running order:
+    01>02>02b>02c>03
