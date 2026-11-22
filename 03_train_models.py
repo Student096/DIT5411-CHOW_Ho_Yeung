@@ -12,8 +12,8 @@ DATA_ROOT = os.path.join(WORK_DIR, "dataset_extracted_all")
 CKPT_DIR = os.path.join(WORK_DIR, "checkpoints")
 
 IMG_SIZE = 64
-NUM_CLASSES = 13065       # 功課規定輸出層 13,065 個神經元
-TRAIN_PER_CHAR = 40       # 功課規定頭 40 張做 training set
+NUM_CLASSES = 13065       # 輸出層 13,065 個神經元
+TRAIN_PER_CHAR = 40       # 40 張做 training set
 MIN_TRAIN_PER_CHAR = 200  # 增強後每個字 training set 最少 200 張
 BATCH_SIZE = 128
 EPOCHS = 9                # 訓練回合數設定為 9
